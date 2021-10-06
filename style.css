@@ -1,0 +1,31 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    color: coral;
+    margin: 0;
+    box-shadow: 5px 5px 5px lightseagreen;
+    padding: 10px;
+}
+
+.note{
+    font-size: 15px;
+    color: magenta;
+    background-color: mediumturquoise;
+    padding: 7px;
+}
+
+.copy_right_footer{
+    font-size: 20px;
+    background-color: powderblue;
+    padding: 10px;
+    color: seagreen;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+
+canvas{
+    border: solid 5px lightblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px lightgreen;
+}
